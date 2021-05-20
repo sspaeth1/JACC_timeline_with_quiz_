@@ -1,0 +1,450 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "1",
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Instructions",
+          "text": "Instructions: You can view the progression in a linear fashion by using the left and right arrows on desktop or swipe on mobile. Additionally, you can slide the timeline to move forward or back in time. Use the magnifying glass to scale the timeline as needed"
+         }
+    },
+    "events": [
+      {
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "24 hours:"
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "JIp01_01ER",
+          "text": "JIp01_01ER_copy1  vital signs"
+        },
+        "group": "Timing",
+        "background": "color:red"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "1",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "JIp01_01ER_ECG "
+        },
+        "text": {
+          "headline": "JIp01_01ER_ECG ",
+          "text": "ER location Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        "background": "#333",
+        "group": "Imaging"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "4",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "JIp01_01ER_CXR"
+        },
+        "text": {
+          "headline": "JIp01_01ER_CXR",
+          "text": "Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        "background": "#333",
+        "group": "Imaging"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "6",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "JIp01_01ER_CXR"
+        },
+        "text": {
+          "headline": "JIp01_01ER_labs",
+          "text": " [lab findings on slides 3 and 4 (except dark blue area)]"
+        },
+        "background": "#333",
+        "group": "Imaging"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "8",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "JIp01_01ER_CXR"
+        },
+        "text": {
+          "headline": "JIp01_01ER_copy2",
+          "text": "      o    [escalation of management; slide 3]"
+        },
+        "background": "#333",
+        "group": "Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "20",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "QUIZ: <br>  What investigations should take place next?",
+          "text": "<iframe style='min-height:600px' src='../embed/quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"quiz"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "1",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": "48 hours:"
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": "48 hours:"
+        },
+        "text": {
+          "headline": "ICU epoch",
+          "text": "ICU-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"Timing"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "5",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": "48 hours:"
+        },
+        "text": {
+          "headline": "ICU Imaging",
+          "text": "<p  class='fig'><span class='bold'> Fig 1 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'><p class='fig'><span class='bold'> Fig 2 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'><p class='fig'><span class='bold'> Fig 3 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'>"
+        },
+        "group":"Imaging"
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=5YEeey-k5Ow",
+          "caption": "Day 2",
+          "credit": "<a href='https://i.ytimg.com/vi/Gbas3epJqxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5N5rD0FFgt2g0UJa0IFc-yl7i0A'>Journal Credit</a>"
+        },
+        "start_date": {
+          "hour": "15",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": "48 hrs: ICU "
+        },
+        "text": {
+          "headline": "YouTube link JACC: Heart Failure Virtual Journal Club",
+          "text": "In part one of JACC: Heart Failure's first Virtual Journal Club, Drs. Scott Solomon, Jonathan Cunningham, James Januzzi and Nasrien Ibrahim  includes the presentation of two recent manuscripts in the journals focused on natriuretic peptides. Subsequent discussion led by Editor-in-Chief Dr. Christopher O'Connor reveals the inner workings of the Editorial Board assessment and interaction with the senior and junior authors. Learn more on JACC.org: https://bit.ly/2XgBVdk"
+        },
+        "group": "Video"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "20",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "ICU Quiz <br>This is a dummy question placement?",
+          "text": "<iframe style='min-height:600px' src='../embed/quizSample.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"quiz"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "3",
+          "year": "2010",
+          "display_date": "72 hours: "
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "3",
+          "year": "2010",
+          "display_date": "72 hours: "
+        },
+        "text": {
+          "headline": "72 hours: Imaging",
+          "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"Timing"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "6",
+          "month": "1",
+          "day": "3",
+          "year": "2010",
+          "display_date": "72 hours: "
+        },
+        "text": {
+          "headline": "72 hours: Imaging First image slide",
+          "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"imaging"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "4",
+          "year": "2010",
+          "display_date": "96 hours: "
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "4",
+          "year": "2010",
+          "display_date": "96 hours: "
+        },
+        "text": {
+          "headline": "96 hours: Decision Making",
+          "text": "Decision Making-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"Timing"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "8",
+          "month": "1",
+          "day": "4",
+          "year": "2010",
+          "display_date": "96 hours: "
+        },
+        "text": {
+          "headline": "Decision Making",
+          "text": "Decision Making-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "12",
+          "month": "1",
+          "day": "4",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Decision Making Quiz <br>This is a dummy question placement?",
+          "text": "<iframe style='min-height:600px' src='../embed/quizSample.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"quiz"
+      },
+      {
+        "media": {
+          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+          "caption": "placeholder image",
+          "credit": "credit: ' ' "
+        },
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "5",
+          "year": "2010",
+          "display_date": "120 hours: "
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "5",
+          "year": "2010",
+          "display_date": "120 hours: "
+        },
+        "text": {
+          "headline": "120 hrs: Treatment Plan",
+          "text": "Treatment Plan-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        },
+        "group":"Timing"
+      },
+      {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "7",
+        "month": "1",
+        "day": "5",
+        "year": "2010",
+        "display_date": "120 hours: "
+      },
+      "text": {
+        "headline": "Treatment Plan",
+        "text": "Treatment Plan-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"Imaging"
+    },
+    {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "0",
+        "month": "1",
+        "day": "6",
+        "year": "2010",
+        "display_date": "144 hours: "
+      },
+      "end_date": {
+        "hour": "24",
+        "month": "1",
+        "day": "6",
+        "year": "2010",
+        "display_date": "144 hours: "
+      },
+      "text": {
+        "headline": "144 hrs: Hospital Course",
+        "text": "Hospital Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"Timing"
+    },
+    {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "5",
+        "month": "1",
+        "day": "6",
+        "year": "2010",
+        "display_date": "144 hours: "
+      },
+      "text": {
+        "headline": "Hospital Course",
+        "text": "Hospital Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"Imaging"
+    },
+    {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "0",
+        "month": "1",
+        "day": "7",
+        "year": "2010",
+        "display_date": "144 hours: "
+      },
+      "end_date": {
+        "hour": "24",
+        "month": "1",
+        "day": "7",
+        "year": "2010",
+        "display_date": "144 hours: "
+      },
+      "text": {
+        "headline": "Post Discharge",
+        "text": "Post Discharge-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"Timing"
+    }
+    ]
+}
