@@ -60,7 +60,7 @@
 let quiz1 = [{"quizNumber": 1},
             {"question": "What investigations should take place next?"},
              {"choices":[
-                "a: CT whole body",
+                "A: CT whole body",
                 "B: Echocardiogram",
                 "C: MRI",
                 "D: Lumbar puncture"]},
@@ -99,16 +99,12 @@ let quiz1 = [{"quizNumber": 1},
                     let indexValue = el.target.getAttribute('data').slice(-1) //get index of whay you clicked on
                     answerResponse.id = "answer";
                     answerResponse.innerHTML = quizData[3].answers[indexValue];
-               quizData[4].correctAnswer.some(correct =>{
-                         
-                    if( correct == indexValue){
-                        answerResponse.className = "answerResponseCorrect";
-                        console.log(correct);
-                    }else{
-                        console.log( "incorrect")
-                        answerResponse.className = "answerResponseWrong";
-                    }           
-                });
+                        if(quizData[4].correctAnswer.includes(parseInt(indexValue))){
+                            answerResponse.className = "answerResponseCorrect";
+                        }else{
+                            answerResponse.className = "answerResponseWrong";
+                        }
+                
         }
      )
     }

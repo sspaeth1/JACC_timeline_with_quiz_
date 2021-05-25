@@ -11,9 +11,12 @@
           "day": "1",
           "year": "2010"
         },
+        "background":{
+          "color": "#004176"
+        },
         "text": {
-          "headline": "Instructions",
-          "text": "Instructions: You can view the progression in a linear fashion by using the left and right arrows on desktop or swipe on mobile. Additionally, you can slide the timeline to move forward or back in time. Use the magnifying glass to scale the timeline as needed"
+          "headline": "Patient Pathways Interactive<br> Patient A ",
+          "text": "<span class='instructions'><span class='bold'>Instructions: </span>You can view the progression in a linear fashion by using the left and right arrows on desktop or swipe on mobile. Additionally, you can slide the timeline to move forward or back in time. Use the magnifying glass to scale the timeline as needed </span>"
          }
     },
     "events": [
@@ -23,7 +26,7 @@
           "month": "1",
           "day": "1",
           "year": "2010",
-          "display_date": "24 hours:"
+          "display_date": "Patient History"
         },
         "end_date": {
           "hour": "24",
@@ -33,16 +36,18 @@
           "display_date": " "
         },
         "text": {
-          "headline": "JIp01_01ER",
-          "text": "JIp01_01ER_copy1  vital signs"
+          "headline": "Presentation / ER",
+          "text": "<ul><li>19 year old female patient presented to ED </li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li></ul><p>Vital signs</p><ul><li>RR 22/min,Sats 94% O2</li><li>HR 140-150 bpm SR</li><li>GCS 15/15</li></ul><p>Past medical History </p><ul><li>6 weeks ago came to UK from Brazil</li><li>PartnJIp01_01ER_ECG1.jpger witnessed that she c/o palpitations occasionally & joint pains</li></ul>"
         },
-        "group": "Timing",
-        "background": "color:red"
+        "background": {
+          "color": "#333"
+        },
+        "group": "Hx"
       },
       {
         "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "",
+          "url": "../imgs/JIp01_01ER_ECG1.jpg",
+          "caption": "ECG",
           "credit": "JACC"
         },
         "start_date": {
@@ -50,19 +55,14 @@
           "month": "1",
           "day": "1",
           "year": "2010",
-          "display_date": "JIp01_01ER_ECG "
+          "display_date": "ECG "
         },
-        "text": {
-          "headline": "JIp01_01ER_ECG ",
-          "text": "ER location Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        "background": "#333",
         "group": "Imaging"
       },
       {
         "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "",
+          "url": "../imgs/JIp01_01ER_CXR1.jpg",
+          "caption": "CXR",
           "credit": "JACC"
         },
         "start_date": {
@@ -70,54 +70,24 @@
           "month": "1",
           "day": "1",
           "year": "2010",
-          "display_date": "JIp01_01ER_CXR"
+          "display_date": "CXR"
         },
-        "text": {
-          "headline": "JIp01_01ER_CXR",
-          "text": "Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        },
-        "background": "#333",
-        "group": "Imaging"
+         "group": "Imaging"
       },
       {
-        "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "",
-          "credit": "JACC"
-        },
         "start_date": {
           "hour": "6",
           "month": "1",
           "day": "1",
           "year": "2010",
-          "display_date": "JIp01_01ER_CXR"
+          "display_date": "Escalation"
         },
         "text": {
-          "headline": "JIp01_01ER_labs",
-          "text": " [lab findings on slides 3 and 4 (except dark blue area)]"
+          "headline": "Escalation of management",
+          "text": "<p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><ul><li>PH 7.30(7.35-7.45)</li><li>PCO2 5.88(4.5-6)</li><li>PO2 11.9(9.5-14)</li><li>HCO3 20.9(22-30)</li></ul>"
         },
         "background": "#333",
-        "group": "Imaging"
-      },
-      {
-        "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "",
-          "credit": "JACC"
-        },
-        "start_date": {
-          "hour": "8",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "JIp01_01ER_CXR"
-        },
-        "text": {
-          "headline": "JIp01_01ER_copy2",
-          "text": "      o    [escalation of management; slide 3]"
-        },
-        "background": "#333",
-        "group": "Imaging"
+        "group": "Hx"
       },
       {
         "media": {
@@ -162,7 +132,28 @@
           "headline": "ICU epoch",
           "text": "ICU-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Timing"
+        "group":"Hx"
+      },
+      {
+        "start_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "Patient History"
+        },
+        "end_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Presentation / ER",
+          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li></ul><p>Vital signs</p><ul><li>RR 22/min,Sats 94% O2</li><li>HR 140-150 bpm SR</li><li>GCS 15/15</li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div><p class='fig'>ECG</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_ECG1.jpg' alt=''><p class='fig'>CXR</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_CXR1.jpg' alt=''> <iframe style='min-height:600px' src='../embed/quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group": "Hx"
       },
       {
         "media": {
@@ -217,7 +208,7 @@
         },
         "text": {
           "headline": "ICU Quiz <br>This is a dummy question placement?",
-          "text": "<iframe style='min-height:600px' src='../embed/quizSample.html' frameborder='0' width='100%'></iframe>"
+          "text": "<iframe style='min-height:600px' src='../embed/quizzes/quizSample.html' frameborder='0' width='100%'></iframe>"
         },
         "group":"quiz"
       },
@@ -245,7 +236,7 @@
           "headline": "72 hours: Imaging",
           "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Timing"
+        "group":"Hx"
       },
       {
         "media": {
@@ -290,7 +281,7 @@
           "headline": "96 hours: Decision Making",
           "text": "Decision Making-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Timing"
+        "group":"Hx"
       },
       {
         "media": {
@@ -354,7 +345,7 @@
           "headline": "120 hrs: Treatment Plan",
           "text": "Treatment Plan-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Timing"
+        "group":"Hx"
       },
       {
       "media": {
@@ -399,7 +390,7 @@
         "headline": "144 hrs: Hospital Course",
         "text": "Hospital Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
       },
-      "group":"Timing"
+      "group":"Hx"
     },
     {
       "media": {
@@ -444,7 +435,7 @@
         "headline": "Post Discharge",
         "text": "Post Discharge-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
       },
-      "group":"Timing"
+      "group":"Hx"
     }
     ]
 }
