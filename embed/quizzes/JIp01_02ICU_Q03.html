@@ -10,6 +10,8 @@
 <body>
 
 
+    
+
 <div id="quiz">
     <ul class="questions">
     </ul>
@@ -17,24 +19,21 @@
 </div>
 <div id="answer"></div>
 
-
-
 <script>
 
-let quiz1 = [{"quizNumber": 1},
-            {"question": "What investigations should take place next?"},
+let quiz1 = [{"quizNumber": 3},
+            {"question": "What should you do next?"},
              {"choices":[
-                "A: CT whole body",
-                "B: Echocardiogram",
-                "C: MRI",
-                "D: Lumbar puncture"]},
+                "A: Echocardiogram",
+                "B: CMR",
+                "C: Coronary angiogram"
+                ]},
             {"answers":[
                     "Correct",
-                    "You are right, an echocardiogram is very important but how about a CT whole body first to clarify why she is so sick",
-                    "Are you sure she can have an MRI? Usually it takes approximately 1 hour and the patient is very sick at the moment",
-                    "Are you sure? Lumbar puncture doesn’t have any clinical benefit at the moment"
-                ]},
-            {"correctAnswer": [0,1]}];
+                    "CMR usually takes ~1 hour and the patient is too sick to be in the scanner for so long.",
+                    "Why you were thinking of this? The patient is clearly septic so coronary angiogram has no clinical value at this point."
+                    ]},
+            {"correctAnswer": [0]}];
 
     let Qtag = "h2"
 

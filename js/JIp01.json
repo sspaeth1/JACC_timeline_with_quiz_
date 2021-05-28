@@ -33,61 +33,13 @@
           "month": "1",
           "day": "1",
           "year": "2010",
-          "display_date": " "
+          "display_date": "scroll down"
         },
         "text": {
           "headline": "Presentation / ER",
-          "text": "<ul><li>19 year old female patient presented to ED </li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li></ul><p>Vital signs</p><ul><li>RR 22/min,Sats 94% O2</li><li>HR 140-150 bpm SR</li><li>GCS 15/15</li></ul><p>Past medical History </p><ul><li>6 weeks ago came to UK from Brazil</li><li>PartnJIp01_01ER_ECG1.jpger witnessed that she c/o palpitations occasionally & joint pains</li></ul>"
+          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li></ul><p>Vital signs</p><ul><li>RR 22/min,Sats 94% O2</li><li>HR 140-150 bpm SR</li><li>GCS 15/15</li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div><hr><p class='fig'>fig: ECG</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_ECG1.jpg' alt=''><hr><p class='fig'>fig: CXR</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_CXR1.jpg' alt=''><h3>Escalation of management</h3><p>On presentation she was in extremis:she was hypoxic,acidotic and hypotensive and therefore she was referred for ECMO</p><ul><li>PH 7.30(7.35-7.45)</li><li>PCO2 5.88(4.5-6)</li><li>PO2 11.9(9.5-14)</li><li>HCO3 20.9(22-30)</li></ul><hr><h4>What investigations should take place next?</h4><iframe style='min-height:400px' src='../embed/quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
         },
-        "background": {
-          "color": "#333"
-        },
-        "group": "Hx"
-      },
-      {
-        "media": {
-          "url": "../imgs/JIp01_01ER_ECG1.jpg",
-          "caption": "ECG",
-          "credit": "JACC"
-        },
-        "start_date": {
-          "hour": "1",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "ECG "
-        },
-        "group": "Imaging"
-      },
-      {
-        "media": {
-          "url": "../imgs/JIp01_01ER_CXR1.jpg",
-          "caption": "CXR",
-          "credit": "JACC"
-        },
-        "start_date": {
-          "hour": "4",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "CXR"
-        },
-         "group": "Imaging"
-      },
-      {
-        "start_date": {
-          "hour": "6",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "Escalation"
-        },
-        "text": {
-          "headline": "Escalation of management",
-          "text": "<p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><ul><li>PH 7.30(7.35-7.45)</li><li>PCO2 5.88(4.5-6)</li><li>PO2 11.9(9.5-14)</li><li>HCO3 20.9(22-30)</li></ul>"
-        },
-        "background": "#333",
-        "group": "Hx"
+        "group": "Presentation / ER"
       },
       {
         "media": {
@@ -96,121 +48,24 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "20",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": " "
-        },
-        "text": {
-          "headline": "QUIZ: <br>  What investigations should take place next?",
-          "text": "<iframe style='min-height:600px' src='../embed/quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe>"
-        },
-        "group":"quiz"
-      },
-      {
-        "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "placeholder image",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "1",
+          "hour": "0",
           "month": "1",
           "day": "2",
           "year": "2010",
-          "display_date": "48 hours:"
+          "display_date": "ICU"
         },
         "end_date": {
           "hour": "24",
           "month": "1",
           "day": "2",
           "year": "2010",
-          "display_date": "48 hours:"
-        },
-        "text": {
-          "headline": "ICU epoch",
-          "text": "ICU-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-        },
-        "group":"Hx"
-      },
-      {
-        "start_date": {
-          "hour": "24",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "Patient History"
-        },
-        "end_date": {
-          "hour": "24",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": " "
-        },
-        "text": {
-          "headline": "Presentation / ER",
-          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li></ul><p>Vital signs</p><ul><li>RR 22/min,Sats 94% O2</li><li>HR 140-150 bpm SR</li><li>GCS 15/15</li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div><p class='fig'>ECG</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_ECG1.jpg' alt=''><p class='fig'>CXR</p><img class='imgFullWidth' src='../../imgs/JIp01_01ER_CXR1.jpg' alt=''> <iframe style='min-height:600px' src='../embed/quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe>"
-        },
-        "group": "Hx"
-      },
-      {
-        "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "5",
-          "month": "1",
-          "day": "2",
-          "year": "2010",
-          "display_date": "48 hours:"
+          "display_date": "scroll down "
         },
         "text": {
           "headline": "ICU Imaging",
-          "text": "<p  class='fig'><span class='bold'> Fig 1 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'><p class='fig'><span class='bold'> Fig 2 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'><p class='fig'><span class='bold'> Fig 3 </span> <br> Text info,  dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p><img class='imgFullWidth' src='https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg'>"
+          "text": "<h4>Computed tomography demonstrated the following findings:</h4><ul><li>Suspected subdural haemorrhage: a small linear area of high density in the right parafalcine region: differentials include a small subdural hematoma or a small thrombus within a tributary in the superior sagittal sinus.<li>No pulmonary embolism<li>Dense consolidation throughout both lungs bilaterally with only a small area of the aerated lung on the right.<li>The airways are completely collapsed approximately 9 mm distal to the endotracheal tube.<li>Bilateral renal and splenic infarcts<li>Bilateral periportal oedema and moderate volume ascites.</ul><hr><p class=fig>fig: JIp01_02ICU_CT1</p><img alt=JIp01_02ICU_CT1 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: JIp01_02ICU_CT2</p><img alt=JIp01_02ICU_CT2 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><h4>What do you think is happening?</h4><iframe style='min-height:300px'  frameborder=0 src=../embed/quizzes/JIp01_02ICU_Q02.html width=100%></iframe><hr><p class=fig>fig: JIp01_02ICU_CT2</p><img alt=JIp01_02ICU_CT2 class=imgFullWidth src=../../imgs/img_placeholder.jpg><ul>o JIp01_02ICU_labs1 [Normal values still to be inserted]<li>lab 1<li>lab 2</ul><hr><h4>What should you do next?</h4><iframe style='min-height:300px' frameborder=0 src=../embed/quizzes/JIp01_02ICU_Q03.html width=100%></iframe><hr><h4>Description of the bedside echocardiography findings:</h4><ul><li>Echo 1: Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium.<li>Echo 2: Then we adjust the depth to better view the mitral valve.<li>Echo 3: We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet.<li>Echo 4: On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle.<li>Echos 5&6: Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations.<li>Echo 7: On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation.<li>Echo 8: Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.<li>Echo 9: A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.<li>Echo 10: The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</ul><p class=fig>fig: Echo1:<p>Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium.</p><img alt=JIp01_02ICU_echo1 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo2:<p>Then we adjust the depth to better view the mitral valve.</p><img alt=JIp01_02ICU_echo2 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo3:<p>We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet.</p><img alt=JIp01_02ICU_echo3 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo4:<p>On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle.</p><img alt=JIp01_02ICU_echo4 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo5 & Echo 6:<p>Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations.</p><img alt=JIp01_02ICU_echo5 class=imgFullWidth src=../../imgs/img_placeholder.jpg> <img alt=JIp01_02ICU_echo6 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo7:<p>On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation.</p><img alt=JIp01_02ICU_echo7 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo8:<p>Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</p><img alt=JIp01_02ICU_echo8 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo9:<p>A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</p><img alt=JIp01_02ICU_echo9 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><p class=fig>fig: Echo10:<p>The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</p><img alt=JIp01_02ICU_echo10 class=imgFullWidth src=../../imgs/img_placeholder.jpg><hr><h4>ICU Labs 2</h4><ul><li>Hb 80<li>Platelets 50<li>Fibrinogen 2<li>INR 1.2</ul><h4>Arterial blood gas values:</h4><ul><li>pH 7.346<li>pCO2 5.88<li>pO2 9.9<li>SB 22.6<li>BE -2.0<li>FiO2 40%<li>LACT 0.8</ul><hr><p>The patient was in disseminated intravascular coagulation and, taking the small subdural hematoma into consideration, heparin was stopped and antithrombin and a pool of platelets were given. The patient was also started on antibiotics: Tazocin, linezolid, clarithromycin and a stat dose of gentamycin<hr><h4>When should we operate?</h4><iframe style='min-height:300px'  frameborder=0 src=../embed/quizzes/JIp01_02ICU_Q04.html width=100%></iframe><hr><h4>Dr. Blauth and the video from ICU with Dr. Grapsa.</h4><iframe width='560' height='315' src='https://www.youtube.com/embed/Mr7R0SchU1E' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
         },
-        "group":"Imaging"
-      },
-      {
-        "media": {
-          "url": "https://www.youtube.com/watch?v=5YEeey-k5Ow",
-          "caption": "Day 2",
-          "credit": "<a href='https://i.ytimg.com/vi/Gbas3epJqxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5N5rD0FFgt2g0UJa0IFc-yl7i0A'>Journal Credit</a>"
-        },
-        "start_date": {
-          "hour": "15",
-          "month": "1",
-          "day": "2",
-          "year": "2010",
-          "display_date": "48 hrs: ICU "
-        },
-        "text": {
-          "headline": "YouTube link JACC: Heart Failure Virtual Journal Club",
-          "text": "In part one of JACC: Heart Failure's first Virtual Journal Club, Drs. Scott Solomon, Jonathan Cunningham, James Januzzi and Nasrien Ibrahim  includes the presentation of two recent manuscripts in the journals focused on natriuretic peptides. Subsequent discussion led by Editor-in-Chief Dr. Christopher O'Connor reveals the inner workings of the Editorial Board assessment and interaction with the senior and junior authors. Learn more on JACC.org: https://bit.ly/2XgBVdk"
-        },
-        "group": "Video"
-      },
-      {
-        "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "20",
-          "month": "1",
-          "day": "2",
-          "year": "2010",
-          "display_date": " "
-        },
-        "text": {
-          "headline": "ICU Quiz <br>This is a dummy question placement?",
-          "text": "<iframe style='min-height:600px' src='../embed/quizzes/quizSample.html' frameborder='0' width='100%'></iframe>"
-        },
-        "group":"quiz"
+        "group":"ICU Imaging"
       },
       {
         "media": {
@@ -223,39 +78,20 @@
           "month": "1",
           "day": "3",
           "year": "2010",
-          "display_date": "72 hours: "
+          "display_date": " "
         },
         "end_date": {
           "hour": "24",
           "month": "1",
           "day": "3",
           "year": "2010",
-          "display_date": "72 hours: "
+          "display_date": "Clinical Discussions"
         },
         "text": {
-          "headline": "72 hours: Imaging",
+          "headline": "ClinicalDiscussions",
           "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Hx"
-      },
-      {
-        "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "placeholder image",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "6",
-          "month": "1",
-          "day": "3",
-          "year": "2010",
-          "display_date": "72 hours: "
-        },
-        "text": {
-          "headline": "72 hours: Imaging First image slide",
-          "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-        },
-        "group":"imaging"
+        "group":"ClinicalDiscussions"
       },
       {
         "media": {
@@ -268,58 +104,20 @@
           "month": "1",
           "day": "4",
           "year": "2010",
-          "display_date": "96 hours: "
+          "display_date": " "
         },
         "end_date": {
           "hour": "24",
           "month": "1",
           "day": "4",
           "year": "2010",
-          "display_date": "96 hours: "
+          "display_date": "Surgery (preOp)"
         },
         "text": {
-          "headline": "96 hours: Decision Making",
+          "headline": "Surgery (preOp)",
           "text": "Decision Making-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Hx"
-      },
-      {
-        "media": {
-          "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-          "caption": "placeholder image",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "8",
-          "month": "1",
-          "day": "4",
-          "year": "2010",
-          "display_date": "96 hours: "
-        },
-        "text": {
-          "headline": "Decision Making",
-          "text": "Decision Making-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-        },
-        "group":"Imaging"
-      },
-      {
-        "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "12",
-          "month": "1",
-          "day": "4",
-          "year": "2010",
-          "display_date": " "
-        },
-        "text": {
-          "headline": "Decision Making Quiz <br>This is a dummy question placement?",
-          "text": "<iframe style='min-height:600px' src='../embed/quizSample.html' frameborder='0' width='100%'></iframe>"
-        },
-        "group":"quiz"
+        "group":"Surgery(preOp)"
       },
       {
         "media": {
@@ -332,40 +130,21 @@
           "month": "1",
           "day": "5",
           "year": "2010",
-          "display_date": "120 hours: "
+          "display_date": " "
         },
         "end_date": {
           "hour": "24",
           "month": "1",
           "day": "5",
           "year": "2010",
-          "display_date": "120 hours: "
+          "display_date": "Surgery (intraOp)"
         },
         "text": {
-          "headline": "120 hrs: Treatment Plan",
+          "headline": "Surgery (intraOp)",
           "text": "Treatment Plan-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
         },
-        "group":"Hx"
+        "group":"Surgery (intraOp)"
       },
-      {
-      "media": {
-        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-        "caption": "placeholder image",
-        "credit": "credit: ' ' "
-      },
-      "start_date": {
-        "hour": "7",
-        "month": "1",
-        "day": "5",
-        "year": "2010",
-        "display_date": "120 hours: "
-      },
-      "text": {
-        "headline": "Treatment Plan",
-        "text": "Treatment Plan-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-      },
-      "group":"Imaging"
-    },
     {
       "media": {
         "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
@@ -377,39 +156,20 @@
         "month": "1",
         "day": "6",
         "year": "2010",
-        "display_date": "144 hours: "
+        "display_date": " "
       },
       "end_date": {
         "hour": "24",
         "month": "1",
         "day": "6",
         "year": "2010",
-        "display_date": "144 hours: "
+        "display_date": "Surgery (ImmedPostOp)"
       },
       "text": {
-        "headline": "144 hrs: Hospital Course",
-        "text": "Hospital Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        "headline": "Surgery (ImmedPostOp)",
+        "text": "Surgery (ImmedPostOp)-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
       },
-      "group":"Hx"
-    },
-    {
-      "media": {
-        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
-        "caption": "placeholder image",
-        "credit": "credit: ' ' "
-      },
-      "start_date": {
-        "hour": "5",
-        "month": "1",
-        "day": "6",
-        "year": "2010",
-        "display_date": "144 hours: "
-      },
-      "text": {
-        "headline": "Hospital Course",
-        "text": "Hospital Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-      },
-      "group":"Imaging"
+      "group":"Surgery (ImmedPostOp)"
     },
     {
       "media": {
@@ -422,20 +182,72 @@
         "month": "1",
         "day": "7",
         "year": "2010",
-        "display_date": "144 hours: "
+        "display_date": " "
       },
       "end_date": {
         "hour": "24",
         "month": "1",
         "day": "7",
         "year": "2010",
-        "display_date": "144 hours: "
+        "display_date": "PostOp Course"
       },
       "text": {
-        "headline": "Post Discharge",
-        "text": "Post Discharge-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+        "headline": "PostOp Course",
+        "text": "PostOp Course-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
       },
-      "group":"Hx"
+      "group":"PostOp Course"
+    },
+    {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "0",
+        "month": "1",
+        "day": "8",
+        "year": "2010",
+        "display_date": " "
+      },
+      "end_date": {
+        "hour": "24",
+        "month": "1",
+        "day": "8",
+        "year": "2010",
+        "display_date": "FollowUp"
+      },
+      "text": {
+        "headline": "FollowUp",
+        "text": "FollowUp-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"FollowUp"
+    },
+    {
+      "media": {
+        "url": "https://biochromatic.com/hosted/devon/case/imgs/img_placeholder.jpg",
+        "caption": "placeholder image",
+        "credit": "credit: ' ' "
+      },
+      "start_date": {
+        "hour": "0",
+        "month": "1",
+        "day": "9",
+        "year": "2010",
+        "display_date": " "
+      },
+      "end_date": {
+        "hour": "24",
+        "month": "1",
+        "day": "9",
+        "year": "2010",
+        "display_date": "Future"
+      },
+      "text": {
+        "headline": "Future",
+        "text": "Future-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      },
+      "group":"Future"
     }
     ]
 }

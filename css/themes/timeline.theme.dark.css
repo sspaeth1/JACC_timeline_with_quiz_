@@ -299,8 +299,8 @@
   line-height: 15px;
 }
 .tl-timeline h2.tl-headline-title {
-  font-size: 46px;
-  line-height: 46px;
+  font-size: 31px;
+  line-height: 31px;
 }
 .tl-timeline h2.tl-headline-title small {
   display: block;
@@ -2855,7 +2855,7 @@
 .tl-media .tl-media-blockquote blockquote p:before,
 .tl-media .tl-media-blockquote blockquote p:after {
   display: inline-block;
-  font-size: 46px;
+  font-size: 31px;
 }
 .tl-media .tl-media-blockquote blockquote p:before {
   content: open-quote;
