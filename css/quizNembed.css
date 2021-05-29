@@ -103,3 +103,37 @@ h4.nextSlide {
     font-size: 22px !important;
     color: #004176;
 }
+
+table.labs th, table.labs td{
+    border:solid rgb(71, 71, 71) 1px;
+    padding: 10px;
+
+}
+table.labs{
+    width: 50%;
+    border-collapse: collapse;
+
+}
+td.labsNeg{
+    color:rgb(179, 36, 36);
+    font-weight: 800;
+}
+table.labs th{
+    background-color: #004176;
+    color: #fff;
+}
+span.caseHeadline {
+    color: #7db3de;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+@media screen and (max-width: 600px){
+    table.labs{
+        width: 100%;
+    }
+    h4.nextSlide{
+        font-size: 15px !important;
+    }
+}

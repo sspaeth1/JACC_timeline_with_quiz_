@@ -11064,7 +11064,7 @@ var TL = (function (t) {
             : i
             ? ((this._el.slider.className = "tl-timenav-slider tl-timenav-slider-animate"),
               (this.animate_css = !0),
-              (this._el.slider.style.left = -this._markers[a].getLeft() + this.options.width / 2 + "px"))
+              (this._el.slider.style.left = -this._markers[a].getLeft() + this.options.width / 3 + "px"))
             : ((this._el.slider.className = "tl-timenav-slider"),
               (this.animator = ct(this._el.slider, { left: -this._markers[a].getLeft() + this.options.width / 2 + "px", duration: r, easing: n }))),
           t >= 0 && t < this._markers.length ? (this.current_id = this._markers[t].data.unique_id) : (this.current_id = "");
