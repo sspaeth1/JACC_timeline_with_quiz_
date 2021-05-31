@@ -110,11 +110,11 @@ table.labs th, table.labs td{
 
 }
 table.labs{
-    width: 50%;
+    width: 80%;
     border-collapse: collapse;
 
 }
-td.labsNeg{
+td.labsNeg, .labsNeg{
     color:rgb(179, 36, 36);
     font-weight: 800;
 }
