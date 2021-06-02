@@ -16,28 +16,35 @@
         },
         "text": {
           "headline": "JACC Patient Pathways",
-          "text": "<span class='caseHeadline'>Case 1: A Young Woman in Extremis</span><br><br><span class='instructions'>Follow this patient's journey by using the left and right arrows (desktop) or by swiping (mobile). The timeline also slides forward and backward. Use the magnifying glass to scale the timeline as needed.</span>"
+          "text": "<span class='caseHeadline'>A Young Woman in Extremis</span><br><br><span class='instructions'>Follow this patient's journey by using the left and right arrows (desktop) or by swiping (mobile). The timeline also slides forward and backward. Use the magnifying glass to scale the timeline as needed.</span>"
          }
     },
     "events": [
       {
         "start_date": {
-          "hour": "0",
+          "hour": "1",
           "month": "1",
           "day": "1",
           "year": "2010",
           "display_date": "Patient History"
         },
-        "end_date": {
-          "hour": "24",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": "scroll down"
-        },
         "text": {
           "headline": "Presentation / ER",
-          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li><li><table class='labs'><th colspan='2'>Vital signs</th> <tr><td>RR</td><td>22/min</td></tr><tr><td>Sats</td><td>94% O2</td></tr><tr><td>HR</td><td>140-150 bpm SR</td></tr><tr><td>GCS</td><td>15/15</td></tr></table> </li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div><hr><p class='fig'>fig: ECG</p><img class='imgFullWidth' src='../imgs/JIp01_01ER_ECG1.jpg' alt='ECG 1'><hr><p class='fig'>fig: CXR</p><img class='imgFullWidth' src='../imgs/JIp01_01ER_CXR1.jpg' alt='CXR 1'><hr><h3>Escalation of management</h3><p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO2</td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO2</td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO3 </td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table><hr><h4>What investigations should take place next?</h4><iframe style='min-height:380px' src='./quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
+          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li><li><table class='labs'><th colspan='2'>Vital signs</th> <tr><td>RR</td><td>22/min</td></tr><tr><td>Sats</td><td>94% O2</td></tr><tr><td>HR</td><td>140-150 bpm SR</td></tr><tr><td>GCS</td><td>15/15</td></tr></table> </li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "0",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": "ECG"
+        },
+        "text": {
+          "headline": "ECG",
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_01ER_ECG1.jpg' alt='ECG 1'><hr><p class='fig'>fig: CXR</p><img class='imgFullWidth' src='../imgs/JIp01_01ER_CXR1.jpg' alt='CXR 1'><hr><h3>Escalation of management</h3><p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO2</td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO2</td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO3 </td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table><hr><h4>What investigations should take place next?</h4><iframe style='min-height:380px' src='./quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
         },
         "group": "Presentation / ER"
       },
