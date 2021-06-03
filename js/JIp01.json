@@ -11,6 +11,12 @@
           "day": "1",
           "year": "2010"
         },
+        "end_date": {
+          "hour": "1",
+          "month": "1",
+          "day": "1",
+          "year": "2010"
+        },
         "background":{
           "color": "#004176"
         },
@@ -22,7 +28,7 @@
     "events": [
       {
         "start_date": {
-          "hour": "1",
+          "hour": "2",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -36,15 +42,71 @@
       },
       {
         "start_date": {
-          "hour": "0",
+          "hour": "3",
           "month": "1",
-          "day": "2",
+          "day": "1",
           "year": "2010",
-          "display_date": "ECG"
+          "display_date": " "
         },
         "text": {
           "headline": "ECG",
-          "text": "<img class='imgFullWidth' src='../imgs/JIp01_01ER_ECG1.jpg' alt='ECG 1'><hr><p class='fig'>fig: CXR</p><img class='imgFullWidth' src='../imgs/JIp01_01ER_CXR1.jpg' alt='CXR 1'><hr><h3>Escalation of management</h3><p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO2</td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO2</td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO3 </td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table><hr><h4>What investigations should take place next?</h4><iframe style='min-height:380px' src='./quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_01ER_ECG1.jpg' alt='ECG 1'>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "4",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "CXR",
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_01ER_CXR1.jpg' alt='CXR 1'>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "5",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Escalation of management",
+          "text": "<p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "6",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Labs",
+          "text": "<table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO2</td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO2</td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO3 </td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "7",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Quiz",
+          "text": "<h4>What investigations should take place next?</h4><iframe style='min-height:380px' src='./quizzes/JIp01_01ER_Q01.html' frameborder='0' width='100%'></iframe>"
         },
         "group": "Presentation / ER"
       },
@@ -55,22 +117,414 @@
           "credit": ""
         },
         "start_date": {
+          "hour": "9",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": "ICU"
+        },
+        "text": {
+          "headline": "ICU Imaging",
+          "text": "<h4>Computed tomography demonstrated the following findings:</h4><ul><li>Suspected subdural haemorrhage: a small linear area of high density in the right parafalcine region: differentials include a small subdural hematoma or a small thrombus within a tributary in the superior sagittal sinus.</li><li>No pulmonary embolism</li><li>Dense consolidation throughout both lungs bilaterally with only a small area of the aerated lung on the right. </li><li>The airways are completely collapsed approximately 9 mm distal to the endotracheal tube.</li><li>Bilateral renal and splenic infarcts</li><li>Bilateral periportal oedema and moderate volume ascites.</li></ul>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "10",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "ICU CT 1",
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT1.jpg' alt='ICU CT 1'>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "11",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "ICU CT 2",
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT2.jpg' alt='ICU CT 2'>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "12",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "ICU CT 3",
+          "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT3.jpg' alt='ICU CT 3'>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "13",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Quiz",
+          "text": "<h4>What do you think is happening?</h4><iframe style='min-height:300px' src='./quizzes/JIp01_02ICU_Q02.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "14",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Labs",
+          "text": "<table class='labs'><th colspan='2'>ICU Labs 2</th><tr><td>Hb</td><td> <span class='labsNeg'>8 </span>(normal range: 12.1 to 15.1 g/dL)</td></tr><tr><td>Platelets</td><td> <span class='labsNeg'>50 </span>(normal range: 150-400 X 106)</td></tr><tr><td>Fibrinogen</td><td>2 (normal range: 2.0 to 4.0 g/L)</td></tr><tr><td>INR</td><td>1.2 (normal range 0.8-1.2)</td></tr><tr><td colspan='2' class='bold'>Arterial blood gas values:</td></tr><tr><td>pH</td><td>7.346</td></tr><tr><td>pCO2</td><td>5.88</td></tr><tr><td>pO2</td><td>9.9</td></tr><tr><td>SB</td><td>22.6</td></tr><tr><td>BE</td><td>-2.0</td></tr><tr><td>FiO2</td><td>40%</td></tr><tr><td>LACT</td><td> 0.8</td></tr></table>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "15",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Quiz",
+          "text": "<h4>What should you do next?</h4><iframe style='min-height:350px' src='./quizzes/JIp01_02ICU_Q03.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "16",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Findings",
+          "text": "<h4>Description of the bedside echocardiography findings: </h4><ul><li>Echo 1: Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium. </li><li>Echo 2: Then we adjust the depth to better view the mitral valve. </li><li>Echo 3: We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet. </li><li>Echo 4: On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle. </li><li>Echos 5&6: Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations. </li><li>Echo 7: On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation. </li><li>Echo 8: Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</li><li>Echo 9: A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</li><li>Echo 10: The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</li></ul>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo1.mp4",
+          "caption": "echo",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "17",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 1",
+          "text": "Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium."
+         },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo2.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "18",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 2",
+          "text": "Adjust the depth to better view the mitral valve."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo3.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "19",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 3",
+          "text": "We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo4.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "20",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 4",
+          "text": "On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "21",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 5 & 6",
+          "text": "<p> Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations.</p><video controls loop><source src='../videos/JIp01_02ICU_echo5.mp4' type='video/mp4'></video><video controls loop><source src='../videos/JIp01_02ICU_echo6.mp4' type='video/mp4'></video>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo7.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "22",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 7",
+          "text": "On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo8.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "23",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 8",
+          "text": "Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo9.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
+          "hour": "24",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Echo 9",
+          "text": "A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "../videos/JIp01_02ICU_echo10.mp4",
+          "caption": "",
+          "credit": "JACC"
+        },
+        "start_date": {
           "hour": "0",
           "month": "1",
           "day": "2",
           "year": "2010",
-          "display_date": "ICU"
+          "display_date": " "
         },
-        "end_date": {
-          "hour": "24",
+        "text": {
+          "headline": "Echo 10",
+          "text": "The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet."
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "1",
           "month": "1",
           "day": "2",
           "year": "2010",
-          "display_date": "scroll down "
+          "display_date": " "
         },
         "text": {
-          "headline": "ICU Imaging",
-          "text": "<h4>Computed tomography demonstrated the following findings:</h4><ul><li>Suspected subdural haemorrhage: a small linear area of high density in the right parafalcine region: differentials include a small subdural hematoma or a small thrombus within a tributary in the superior sagittal sinus.</li><li>No pulmonary embolism</li><li>Dense consolidation throughout both lungs bilaterally with only a small area of the aerated lung on the right. </li><li>The airways are completely collapsed approximately 9 mm distal to the endotracheal tube.</li><li>Bilateral renal and splenic infarcts</li><li>Bilateral periportal oedema and moderate volume ascites.</li></ul><hr><p class='fig'>fig: ICU CT 1</p><img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT1.jpg' alt='ICU CT 1'><hr><p class='fig'>fig: ICU CT 2</p><img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT2.jpg' alt='ICU CT 2'><hr><p class='fig'>fig: ICU CT 3</p><img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT3.jpg' alt='ICU CT 3'><hr><h4>What do you think is happening?</h4><iframe style='min-height:300px' src='./quizzes/JIp01_02ICU_Q02.html' frameborder='0' width='100%'></iframe><hr><table class='labs'><th colspan='2'>ICU Labs 2</th><tr><td>Hb</td><td> <span class='labsNeg'>8 </span>(normal range: 12.1 to 15.1 g/dL)</td></tr><tr><td>Platelets</td><td> <span class='labsNeg'>50 </span>(normal range: 150-400 X 106)</td></tr><tr><td>Fibrinogen</td><td>2 (normal range: 2.0 to 4.0 g/L)</td></tr><tr><td>INR</td><td>1.2 (normal range 0.8-1.2)</td></tr><tr><td colspan='2' class='bold'>Arterial blood gas values:</td></tr><tr><td>pH</td><td>7.346</td></tr><tr><td>pCO2</td><td>5.88</td></tr><tr><td>pO2</td><td>9.9</td></tr><tr><td>SB</td><td>22.6</td></tr><tr><td>BE</td><td>-2.0</td></tr><tr><td>FiO2</td><td>40%</td></tr><tr><td>LACT</td><td> 0.8</td></tr></table><hr><h4>What should you do next?</h4><iframe style='min-height:350px' src='./quizzes/JIp01_02ICU_Q03.html' frameborder='0' width='100%'></iframe><hr><h4>Description of the bedside echocardiography findings: </h4><ul><li>Echo 1: Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium. </li><li>Echo 2: Then we adjust the depth to better view the mitral valve. </li><li>Echo 3: We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet. </li><li>Echo 4: On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle. </li><li>Echos 5&6: Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations. </li><li>Echo 7: On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation. </li><li>Echo 8: Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</li><li>Echo 9: A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</li><li>Echo 10: The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</li></ul><p class='fig'>fig: Echo 1:</p><video controls loop><source src='../videos/JIp01_02ICU_echo1.mp4' type='video/mp4'></video><p> Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium. </p><hr><p class='fig'>fig: Echo 2:</p></p><video controls loop><source src='../videos/JIp01_02ICU_echo2.mp4' type='video/mp4'></video><p>Then we adjust the depth to better view the mitral valve.<hr><p class='fig'>fig: Echo 3:</p></p><video controls loop><source src='../videos/JIp01_02ICU_echo3.mp4' type='video/mp4'></video><p>We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet.<hr><p class='fig'>fig: Echo 4:</p><video controls loop><source src='../videos/JIp01_02ICU_echo4.mp4' type='video/mp4'></video><p>On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle. </p><hr><p class='fig'>fig: Echo 5 & Echo 6:</p><video controls loop><source src='../videos/JIp01_02ICU_echo5.mp4' type='video/mp4'></video><video controls loop><source src='../videos/JIp01_02ICU_echo6.mp4' type='video/mp4'></video><p> Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations. </p><hr><p class='fig'>fig: Echo7:</p><video controls loop><source src='../videos/JIp01_02ICU_echo7.mp4' type='video/mp4'></video><p>On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation. </p><hr><p class='fig'>fig: Echo 8:</p><video controls loop><source src='../videos/JIp01_02ICU_echo8.mp4' type='video/mp4'></video><p>Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</p><hr><p class='fig'>fig: Echo 9:</p><video controls loop><source src='../videos/JIp01_02ICU_echo4.mp4' type='video/mp4'></video><p>A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</p><hr><p class='fig'>fig: Echo 10:</p><video controls loop><source src='../videos/JIp01_02ICU_echo10.mp4' type='video/mp4'></video><p>The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</p><hr><p>The patient was in disseminated intravascular coagulation and, taking the small subdural hematoma into consideration, heparin was stopped and antithrombin and a pool of platelets were given. The patient was also started on antibiotics: Tazocin, linezolid, clarithromycin and a stat dose of gentamycin</p><hr><h4>When should we operate?</h4><iframe style='min-height: 300px;' src='./quizzes/JIp01_02ICU_Q04.html' frameborder='0' width='100%'></iframe><hr><p> Dr. Blauth Video</p><video controls><source src='../videos/' type='video/mp4'></video><p> Video from ICU with Dr. Grapsa</p><video controls><source src='../videos/' type='video/mp4'></video><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>"
+          "headline": "Notes",
+          "text": "<p>The patient was in disseminated intravascular coagulation and, taking the small subdural hematoma into consideration, heparin was stopped and antithrombin and a pool of platelets were given. The patient was also started on antibiotics: Tazocin, linezolid, clarithromycin and a stat dose of gentamycin</p>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "2",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Quiz",
+          "text": "<h4>When should we operate?</h4><iframe style='min-height: 300px;' src='./quizzes/JIp01_02ICU_Q04.html' frameborder='0' width='100%'></iframe>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "3",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": " Dr. Blauth Video   *sample  you tube in placefor now*",
+          "text": "<p> Dr. Blauth Video</p><iframe class='youTube' width='560' height='315' src='https://www.youtube.com/embed/1nr32SUlEmk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "4",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "ICU with Dr. Grapsa",
+          "text": "<p> Video from ICU with Dr. Grapsa</p><video controls><source src='../videos/' type='video/mp4'></video>"
+        },
+        "group":"ICU Imaging"
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "hour": "5",
+          "month": "1",
+          "day": "2",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "Sample illustration slide",
+          "text": "<img class='' src='../imgs/JIp01_05IntraOp_illustration1.jpg' alt='CXR 1'>"
         },
         "group":"ICU Imaging"
       },
@@ -96,7 +550,7 @@
         },
         "text": {
           "headline": "ClinicalDiscussions",
-          "text": "Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+          "text": "<!-- <p> Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations. </p><hr><p class='fig'>fig: Echo7:</p><video controls loop><source src='../videos/JIp01_02ICU_echo7.mp4' type='video/mp4'></video><p>On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation. </p><hr><p class='fig'>fig: Echo 8:</p><video controls loop><source src='../videos/JIp01_02ICU_echo8.mp4' type='video/mp4'></video><p>Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</p><hr><p class='fig'>fig: Echo 9:</p><video controls loop><source src='../videos/JIp01_02ICU_echo4.mp4' type='video/mp4'></video><p>A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</p><hr><p class='fig'>fig: Echo 10:</p><video controls loop><source src='../videos/JIp01_02ICU_echo10.mp4' type='video/mp4'></video><p>The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</p><hr><p>The patient was in disseminated intravascular coagulation and, taking the small subdural hematoma into consideration, heparin was stopped and antithrombin and a pool of platelets were given. The patient was also started on antibiotics: Tazocin, linezolid, clarithromycin and a stat dose of gentamycin</p><hr><h4>When should we operate?</h4><iframe style='min-height: 300px;' src='./quizzes/JIp01_02ICU_Q04.html' frameborder='0' width='100%'></iframe><hr><p> Dr. Blauth Video</p><video controls><source src='../videos/' type='video/mp4'></video><p> Video from ICU with Dr. Grapsa</p><video controls><source src='../videos/' type='video/mp4'></video><hr><h4 class='nextSlide'>Go to the next slide (click on the arrow to the right)</h4>        Imaging-  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. --> "
         },
         "group":"ClinicalDiscussions"
       },

@@ -11060,7 +11060,7 @@ var TL = (function (t) {
           this.animator && this.animator.stop(),
           e
             ? ((this._el.slider.className = "tl-timenav-slider"),
-              (this._el.slider.style.left = -this._markers[a].getLeft() + this.options.width / 2 + "px"))
+              (this._el.slider.style.left = -this._markers[a].getLeft() + this.options.width / 4 + "px"))
             : i
             ? ((this._el.slider.className = "tl-timenav-slider tl-timenav-slider-animate"),
               (this.animate_css = !0),

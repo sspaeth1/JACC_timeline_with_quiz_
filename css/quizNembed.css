@@ -20,7 +20,7 @@ color: #ddd }
     background-color: #053f6e;
 }
 .tl-timeline .tl-slidenav-next, .tl-timeline .tl-slidenav-previous, .tl-timeline .tl-message, .tl-timeline .tl-timegroup-message{
-    /* color:#8499aa; */
+    color:#8499aa;
     font-size: 12px;
 }
 .fig{
@@ -49,11 +49,11 @@ div.tl-text-content-container h2.tl-headline{
 /*** instructions ***/
 
 .instructions{
-    color: #a5a5a5;
+    color: #4c8dc1;
     font-family: arial;
     padding-right: 2%;
-    font-size: 12px;
-    line-height: 18px;
+    font-size: 18px;
+    line-height: 28px;
     text-align: right;
 }   
 .bold{
@@ -126,6 +126,15 @@ span.caseHeadline {
     color: #7db3de;
     font-size: 22px;
     font-weight: bold;
+}
+
+.tl-text-content p{
+    font-size: 20px !important;
+}
+
+
+.tl-slidenav-content-container .tl-slidenav-title, .tl-slidenav-content-container  .tl-slidenav-description{
+    visibility: collapse;
 }
 
 
