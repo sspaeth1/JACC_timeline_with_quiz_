@@ -245,31 +245,12 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "hour": "16",
-          "month": "1",
-          "day": "1",
-          "year": "2010",
-          "display_date": " "
-        },
-        "text": {
-          "headline": "Findings",
-          "text": "<h4>Description of the bedside echocardiography findings: </h4><ul><li>Echo 1: Parasternal long axis demonstrates extensive lung consolidation and you can see that there are extensive vegetations on the mitral valve, starting from the posterior leaflet. The vegetation has affected the posterior leaflet which is prolapsing slightly into the left atrium. </li><li>Echo 2: Then we adjust the depth to better view the mitral valve. </li><li>Echo 3: We notice a degree of mitral regurgitation due to the vegetation on the posterior leaflet. </li><li>Echo 4: On parasternal long axis of right ventricular inflow there is a suspected vegetation on the right ventricle close to the tricuspid papillary muscle. </li><li>Echos 5&6: Parasternal short axis demonstrates extensive vegetations on the right ventricular wall. Both views are “off axis” to demonstrate both mitral and right ventricular wall vegetations. </li><li>Echo 7: On parasternal short axis with colour Doppler it is evident that there is at least moderate eccentric mitral regurgitation. </li><li>Echo 8: Apical four chamber view demonstrates normal size left and right ventricles. There is a vegetation on the posterior leaflet which prolapse.</li><li>Echo 9: A zoom on the mitral valve with colour Doppler demonstrates at least moderate eccentric mitral regurgitation.</li><li>Echo 10: The zoom view of the mitral valve demonstrates the vegetation on the posterior leaflet.</li></ul>"
-        },
-        "group":"ICU Imaging"
-      },
-      {
-        "media": {
           "url": "../videos/JIp01_02ICU_echo1.mp4",
           "caption": "echo",
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "17",
+          "hour": "16",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -288,7 +269,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "18",
+          "hour": "17",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -307,7 +288,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "19",
+          "hour": "18",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -326,7 +307,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "20",
+          "hour": "19",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -345,7 +326,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "21",
+          "hour": "20",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -364,7 +345,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "22",
+          "hour": "21",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -383,7 +364,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "23",
+          "hour": "22",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -402,7 +383,7 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "24",
+          "hour": "23",
           "month": "1",
           "day": "1",
           "year": "2010",
@@ -421,9 +402,9 @@
           "credit": "JACC"
         },
         "start_date": {
-          "hour": "0",
+          "hour": "24",
           "month": "1",
-          "day": "2",
+          "day": "1",
           "year": "2010",
           "display_date": " "
         },
@@ -440,7 +421,7 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "1",
+          "hour": "0",
           "month": "1",
           "day": "2",
           "year": "2010",
@@ -459,7 +440,7 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "2",
+          "hour": "1",
           "month": "1",
           "day": "2",
           "year": "2010",
@@ -478,7 +459,7 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "3",
+          "hour": "2",
           "month": "1",
           "day": "2",
           "year": "2010",
@@ -497,7 +478,7 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "4",
+          "hour": "3",
           "month": "1",
           "day": "2",
           "year": "2010",
@@ -516,7 +497,7 @@
           "credit": ""
         },
         "start_date": {
-          "hour": "5",
+          "hour": "4",
           "month": "1",
           "day": "2",
           "year": "2010",
