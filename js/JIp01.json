@@ -143,7 +143,7 @@
           "display_date": " "
         },
         "text": {
-          "headline": "ICU CT 1",
+          "headline": "CT 1",
           "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT1.jpg' alt='ICU CT 1'>"
         },
         "group":"ICU Imaging"
@@ -162,7 +162,7 @@
           "display_date": " "
         },
         "text": {
-          "headline": "ICU CT 2",
+          "headline": "CT 2",
           "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT2.jpg' alt='ICU CT 2'>"
         },
         "group":"ICU Imaging"
@@ -181,7 +181,7 @@
           "display_date": " "
         },
         "text": {
-          "headline": "ICU CT 3",
+          "headline": "CT 3",
           "text": "<img class='imgFullWidth' src='../imgs/JIp01_02ICU_CT3.jpg' alt='ICU CT 3'>"
         },
         "group":"ICU Imaging"
