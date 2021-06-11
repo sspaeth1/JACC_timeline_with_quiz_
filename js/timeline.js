@@ -10342,6 +10342,7 @@ var TL = (function (t) {
             (this._el.content_item = this.domCreate("audio", e, this._el.content_link)))
           : (this._el.content_item = this.domCreate("audio", e, this._el.content)),
           (this._el.content_item.controls = !0),
+          (this._el.content_item.loop = !0),
           (this._el.source_item = this.domCreate("source", "", this._el.content_item)),
           this._el.content_item.addEventListener("load", function (e) {
             t.onMediaLoaded();
@@ -10390,6 +10391,7 @@ var TL = (function (t) {
             (this._el.content_item = this.domCreate("video", e, this._el.content_link)))
           : (this._el.content_item = this.domCreate("video", e, this._el.content)),
           (this._el.content_item.controls = !0),
+          this._el.content_item.setAttribute("loop", true),
           (this._el.source_item = this.domCreate("source", "", this._el.content_item)),
           this._el.content_item.addEventListener("load", function (e) {
             t.onMediaLoaded();
