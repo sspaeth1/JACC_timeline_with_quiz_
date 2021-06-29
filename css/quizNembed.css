@@ -107,6 +107,7 @@ h4.nextSlide {
 table.labs th, table.labs td{
     border:solid rgb(71, 71, 71) 1px;
     padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 table.labs{

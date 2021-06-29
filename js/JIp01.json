@@ -36,7 +36,7 @@
         },
         "text": {
           "headline": "Presentation / ER",
-          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting,fevers,intermittent abdominal pain,myalgia,weakness</li><li><table class='labs'><th colspan='2'>Vital signs</th> <tr><td>RR</td><td>22/min</td></tr><tr><td>Sats</td><td>94% O2</td></tr><tr><td>HR</td><td>140-150 bpm SR</td></tr><tr><td>GCS</td><td>15/15</td></tr></table> </li></ul><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div>"
+          "text": "<div class='tl-text'><ul><li>19 year old female patient presented to ED</li><li>5/7 vomiting, fevers, intermittent abdominal pain, myalgia, weakness</li><li><table class='labs'><th colspan='2'>Vital signs</th> <tr><td>RR</td><td>22/min</td></tr><tr><td>Sats</td><td>94% O<sub>2</sub></td><tr><td>BP </td><td> 86/49 mmHg</td><tr><td>HR</td><td>140-150 bpm SR</td></tr><tr><td>GCS</td><td>15/15</td></tr></table> </li></ul><br><p>Past medical History</p><ul><li>6 weeks ago came to UK from Brazil</li><li>Partner witnessed that she c/o palpitations occasionally & joint pains</li></ul></div>"
         },
         "group": "Presentation / ER"
       },
@@ -77,8 +77,8 @@
           "display_date": " "
         },
         "text": {
-          "headline": "Escalation of management",
-          "text": "<p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'>"
+          "headline": "JIp01_01ER_Webinar1",
+          "text": "<p> JIp01_01ER_Webinar1</p><iframe class='youTube' width='560' height='315' src='https://www.youtube.com/embed/1nr32SUlEmk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
         },
         "group": "Presentation / ER"
       },
@@ -91,8 +91,22 @@
           "display_date": " "
         },
         "text": {
-          "headline": "Labs",
-          "text": "<table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO2</td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO2</td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO3 </td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table>"
+          "headline": "Escalation of management",
+          "text": "<p>On presentation she was in extremis: she was hypoxic, acidotic and hypotensive and therefore she was referred for ECMO</p><table class='labs'><table class='labs'><th colspan='2'>ABG</th><tr><td>PH </td><td><span class='labsNeg'>7.30 </span>(normal range: 7.35-7.45)</td></tr><tr><td>PCO<sub>2</sub></td><td>5.88 (normal range: 4.5-6)</td></tr><tr><td>PO<sub>2</sub></td><td>11.9 (normal range: 9.5-14)</td></tr><tr><td>HCO<sub>3</sub></td><td> <span class='labsNeg'>20.9 </span>(normal range: 22-30)</td></tr></table>"
+        },
+        "group": "Presentation / ER"
+      },
+      {
+        "start_date": {
+          "hour": "7",
+          "month": "1",
+          "day": "1",
+          "year": "2010",
+          "display_date": " "
+        },
+        "text": {
+          "headline": "On presentation:",
+          "text": "<table class='labs'><tr colspan='2'><td>FBC & clotting</td><td></td></tr><tr><td>WBC</td><td><span class='labsNeg'>26.1</span> (normal range: 4.5 - 11 x 10 <sup>9</sup>/L)</td></tr><tr><td>Platelets</td><td><span class='labsNeg'>112</span> (normal range: 150-400 X 10<sup>6</sup>)</td></tr><td>CRP:</td><td><span class='labsNeg'>360</span> (normal range: &lt; 11 mg/dl)</td><tr><td colspan='2'>Renal and liver function:</td></tr><tr><td>Urea</td><td><span class='labsNeg'>12.1</span> (normal range: 1.8 – 7.1 mmol/L)</td></tr><tr><td>Creat</td><td><span class='labsNeg'>151</span> (normal range: 45 to 90 mic/L)</td></tr><tr><td>Alb</td><td><span class='labsNeg'>30</span> (normal range: 35 to 50 grams/L</td></tr><tr><td>Na</td><td><span class='labsNeg'>146.0</span> (normal range: 135-145 mEq/L)</td></tr><tr><td>K</td><td>4.9 (normal range: 3.7 to 5.2 mEq/L)</td></tr><tr><td>ALP</td><td>119 (normal range: 20 to 140U/L)</td></tr><tr><td>ALT</td><td>19 (normal range: 19 to 25 IU/L for females)</td></tr><tr><td colspan='2'>Full viral screening and blood cultures:</td></tr><tr><td>HIV</td><td>neg</td></tr><tr><td>Hep B</td><td>+</td></tr><tr><td>Hep C</td><td>neg</td></tr><td>Covid-19</td><td>neg</td></table>"
         },
         "group": "Presentation / ER"
       },
